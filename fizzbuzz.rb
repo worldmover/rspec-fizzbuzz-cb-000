@@ -8,7 +8,7 @@ end
 elsif int%5==0
   puts "Buzz"
 end
-else 
+else
   puts nil
 end
 end
